@@ -1,5 +1,5 @@
 # test-gps
-<!DOCTYPE html PUBLIC "-//online881//test-gps//EN" "https://github.com/online881/test-gps/new/master?readme=1">
+<!DOCTYPE html PUBLIC "-//online881//test-gps//EN" "https://github.com/online881/test-gps/edit/master/README.php">
 <html class="no-js" itemscope itemtype="https://github.com">
 <head>
 <meta charset="utf-8">
