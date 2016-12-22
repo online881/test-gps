@@ -1,6 +1,6 @@
  <? php? 
-  $ the ip = $ _SERVER [ 'REMOTE_ADDR']; // get the IP address of the client 
-  $ client = $ _SERVER [ 'HTTP_USER_AGENT ']; // get the ID HTTP client 
+  $ the ip = $ _SERVER [ '31.173.85.73']; // get the IP address of the client 
+  $ client = $ _SERVER [ 'http://alielectronics.ru/gps/read.php']; // get the ID HTTP client 
   $ today = date ( "Ymd H : i: s"); // get the current date and time 
   $ f = fopen ( "log.csv" , "a"); // open file for appending data 
   $ parama = $ _REQUEST [ 'a ']; // get the value of variable "a" 
